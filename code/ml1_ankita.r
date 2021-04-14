@@ -578,6 +578,9 @@ fit8
 # this line won't work unless insert_data_here is a real data.frame
 preds8 <- predict(fit8, new_data = insert_data_here)
 
+# For Future Use ####
+# {workflowsets}
+# {stacks}
 
 
 
